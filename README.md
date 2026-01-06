@@ -1,2 +1,2 @@
-# IV1351-Sem3
+# Database project
 
